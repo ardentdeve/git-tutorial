@@ -20,7 +20,7 @@ public class Employee
       return name;
    }
 
-   public double getSalary()
+   public double getSalary(byAbsoluteValue)
    {
       return salary;
    }
